@@ -1,4 +1,6 @@
 #<h1 align="center">Hola 👋, soy Agustín</h1>
+<h3 align="center"> Estudiante de UTN Facultad Regional Avellaneda</h3>
+
 - 🌱 Actualmente estoy aprendiendo **Python**
 
 - 📫 Cómo contactarme **diegoagustin0503@gmail.com**
