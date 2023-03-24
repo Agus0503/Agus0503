@@ -17,4 +17,4 @@
   
 <br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agus0503&show_icons=true&locale=en&theme=github_dark" alt="agus0503" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agus0503&" alt="agus0503" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agus0503&=en&theme=github_dark" alt="agus0503" />
