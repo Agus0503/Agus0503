@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Agustín</h1>
 
-- 🌱 Actualmente estoy aprendiendo **Python** y **Html**
+- 🌱 Actualmente estoy aprendiendo **Python + Django** y **HTML**
 
 - 📫 Cómo contactarme **diegoagustin0503@gmail.com**
 
