@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
 
-- 🌱 I’m currently learning **Python Advanced + Django and C#**
+- 🌱 I’m currently learning **Python Advanced + Django**
 
 - 📫 How to reach me **diegoagustin0503@gmail.com**
 
