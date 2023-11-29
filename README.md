@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Developer Python in progress</h3><br>
 
 
-- 🌱 I’m currently learning **Python Advanced + Django**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **diegoagustin0503@gmail.com**
 
