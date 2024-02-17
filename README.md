@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
-<h3 align="center">👨‍💻 Developer Python in progress</h3><br>
+<h3 align="center">👨‍💻 Developer Web Python </h3><br>
 
 
 - 🌱 I’m currently learning **Django**
