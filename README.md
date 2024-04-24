@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Developer Web Python </h3><br>
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **diegoagustin0503@gmail.com**
 
