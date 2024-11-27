@@ -2,8 +2,6 @@
 <h3 align="center">👨‍💻 Back-End Developer </h3><br>
 
 
-- 🌱 I’m currently learning **REACT**
-
 - 📫 How to reach me **diegoagustin0503@gmail.com**
 
 <h3 align="center"><br>Connect with me:</h3>
