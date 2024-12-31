@@ -6,7 +6,7 @@
 
 <h3 align="center"><br>Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/agus.la14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agus.la14" height="30" width="40" /></a><a href="https://www.linkedin.com/in/diego-agustin-ostua-larramendia-7356b21a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego agustin ostua larramendia" height="30" width="40" /> </a>
+<a href="https://instagram.com/agus_.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agus.la14" height="30" width="40" /></a><a href="https://www.linkedin.com/in/diego-agustin-ostua-larramendia-7356b21a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego agustin ostua larramendia" height="30" width="40" /> </a>
 </p>
 
 
