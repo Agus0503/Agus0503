@@ -7,7 +7,6 @@ I'm a software development student, I'm expanding my knowledge in both front-end
 - 🌱 I’m currently learning ...
   - ReactJs  
 - 👯 I’m looking forward to collaborate on open source projects.
-- 📫 Reach out to me at: <a href="diegoagustin0503@gmail.com">diegoagustin0503@gmail.com</a>
 
 <h1 align="center">Languages</h1>
 <p align="center"> 
