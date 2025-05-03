@@ -5,7 +5,7 @@
 I'm a software development student, I'm expanding my knowledge in both front-end and back-end development, I like to learn and build something productive and innovative.
 
 - 🌱 I’m currently learning ...
-  - ReactJs  
+  - Angular  
 -  I’m looking forward to collaborate on open source projects.
 
 <h1 align="center">Languages</h1>
@@ -39,6 +39,7 @@ I'm a software development student, I'm expanding my knowledge in both front-end
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="trello logo"  />
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="30" alt="notion logo" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo" />
 </p>
 
 <h1 align="center"> Contact me </h1>
