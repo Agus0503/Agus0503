@@ -5,7 +5,7 @@
 I'm a software development student, I'm expanding my knowledge in both front-end and back-end development, I like to learn and build something productive and innovative.
 
 - 🌱 I’m currently learning ...
-  - Angular  
+  - React Native
 -  I’m looking forward to collaborate on open source projects.
 
 <h1 align="center">Languages</h1>
